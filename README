@@ -1,0 +1,8 @@
+-> Link to demonstration in video: https://www.youtube.com/watch?v=umdSgMQQEw4
+
+-> Simple password manager based in Fernet encryption, TKinter and shelves.
+-> Features: maintain passwords encrypted in a hidden folder.
+             uses fernet symetric encryption algorithm.
+             uses tkinter python module to build the entire interface.
+             can create randomic generated password.
+             have changeable configures.
