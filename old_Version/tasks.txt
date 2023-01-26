@@ -1,3 +1,0 @@
--> Implement the trade of the 3 length strings in the moment that a password is saved in the file.
-And trade the char of those strings too if possible.
-
