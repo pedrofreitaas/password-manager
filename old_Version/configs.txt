@@ -1,0 +1,4 @@
+Numbers: "1234567890"
+Letters: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+Simbols: ".,;:!@#+-*/[]=$%&()^"
+Password size: 8
